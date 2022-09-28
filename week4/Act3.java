@@ -1,6 +1,6 @@
 package week4; 
 import java.util.Scanner;
-public class Act3 {
+public class act3 {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Insert your amount of money: ");

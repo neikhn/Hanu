@@ -14,11 +14,13 @@ public class act4Review {
 
             System.out.print("  ");
 
-            for (int k = rows + 1; k <= rows*2; k++) {
+            for (int k = rows + 1; k <= rows * 2; k++) {
                 if (i == 1 || i == rows || k == rows + 1 || k == rows * 2) {
-                    System.out.print("* ");                   
+                    System.out.print("* ");
                     // System.out.print(" ");
-                } else {System.out.print("  ");}
+                } else {
+                    System.out.print("  ");
+                }
             }
             System.out.println();
         }

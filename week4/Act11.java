@@ -1,6 +1,6 @@
-package week4; 
+package week4;
 import java.util.Scanner;
-public class Act11 {
+public class act11 {
     public static void main(String[] args) {
         Scanner user = new Scanner(System.in);
         System.out.print("Input the number of rows for the triangle: ");
@@ -19,6 +19,5 @@ public class Act11 {
             }
             System.out.println();
         }
-    }
+    } 
 }
-

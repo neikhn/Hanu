@@ -1,5 +1,5 @@
 package week4; 
-public class Act2 {
+public class act2 {
     public static void main(String[] args) {
         for (int numbers = 1; numbers <= 100; numbers++) {
             boolean primeNumber = (numbers != 1);

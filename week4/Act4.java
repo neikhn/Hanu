@@ -1,10 +1,10 @@
-package week4; 
+package week4;
 import java.util.Scanner;
-public class Act4 {
+public class act4 {
     public static void main(String[] args) {
         Scanner user = new Scanner(System.in);
+        System.out.print("Input a number to see whether it is a palindrome number or not: ");
         int input = user.nextInt();
-        System.out.println("Input a number to see whether it is a palindrome number or not: ");
         int a; int b = 0; int temp = 0; int temporaryTemp = input;
         while (input > 0) {
             a = input % 10;
