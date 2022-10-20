@@ -1,6 +1,6 @@
 package week4;
 import java.util.Scanner;
-public class act9 {
+public class Act9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the amount of Fibonacci's number(s) you want to calculate: ");

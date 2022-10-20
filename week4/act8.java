@@ -1,7 +1,7 @@
 package week4;
 import java.util.Scanner;
 
-public class act8 {
+public class Act8 {
     //StringBuffer or StringBuilder not allowed.
     public static void main(String[] args) {
         System.out.print("Enter a string: ");

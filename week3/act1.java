@@ -1,7 +1,7 @@
 package week3;
 import java.util.Scanner;
 
-public class act1 {
+public class Act1 {
     public static void main(String[] args) {
         System.out.print("Please enter a real number: ");
         Scanner sc = new Scanner(System.in);

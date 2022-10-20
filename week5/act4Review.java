@@ -1,6 +1,6 @@
 package week5;
 import java.util.Scanner;
-public class act4Review {
+public class Act4Review {
     public static void main(String[] args) {
         System.out.println("Input rows: ");
         Scanner sc = new Scanner(System.in);

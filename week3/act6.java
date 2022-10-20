@@ -1,6 +1,6 @@
 package week3;
 import java.util.Scanner;
-public class act6 {
+public class Act6 {
     public static void main(String[] args) {
         Scanner act6 = new Scanner(System.in);
         System.out.println("Type in random words: ");

@@ -1,6 +1,6 @@
 package week3;
 import java.util.Scanner;
-public class act3Polished {
+public class Act3Polished {
     public static void main(String[] args) {
         Scanner act3 = new Scanner(System.in);
         System.out.print("Enter the two numbers separated by a space: ");

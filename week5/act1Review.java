@@ -1,10 +1,10 @@
 package week5; 
 import java.util.Scanner;
-public class act1Review {
+public class Act1Review {
     public static void main(String[] args) {
         //calling out each functions
         int x; int y = 0;
-        x = sumEven(y);
+        x = sumEven(5);
         System.out.println("The sum of all even numbers between 2 and 100: " + x);
         x = sumSquares(y);
         System.out.println("The sum of all squares between 1 and 100: " + x);

@@ -1,6 +1,6 @@
 package week3;
 import java.util.Scanner;
-public class act4 {
+public class Act4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Quadratic equation: ax2 + bx + c = 0");

@@ -1,5 +1,5 @@
 package week4;
-public class act7 {
+public class Act7 {
     public static void main(String[] args) {
         System.out.print("Armstrong number: ");
         int x, sum = 0, temp;

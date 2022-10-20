@@ -1,6 +1,6 @@
 package week4;
 import java.util.Scanner;
-public class act4 {
+public class Act4 {
     public static void main(String[] args) {
         Scanner user = new Scanner(System.in);
         System.out.print("Input a number to see whether it is a palindrome number or not: ");

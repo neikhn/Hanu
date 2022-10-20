@@ -1,7 +1,7 @@
 package week3;
 import java.util.Scanner;
 
-public class act5 {
+public class Act5 {
     public static void powerOfTwo(int x) {
             double n = (Math.log(x) / Math.log(2));
             if (n == (int) n) {
